@@ -97,6 +97,11 @@
 					B5A192271C04680500500F5A = {
 						CreatedOnToolsVersion = 7.1.1;
 						DevelopmentTeam = ADQNUJ6FL2;
+						SystemCapabilities = {
+							com.apple.Maps.iOS = {
+								enabled = 0;
+							};
+						};
 					};
 				};
 			};
